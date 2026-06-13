@@ -24,9 +24,10 @@ e análise preditiva em Python (Google Colab).
 ## Como Executar o Notebook
 
 1. Acesse https://colab.research.google.com/
-2. Faça upload do arquivo `.ipynb`
-3. Faça upload do CSV `demandas_historico.csv` no seu Google Drive
+2. Clique em **Arquivo → Fazer upload de notebook**
+3. Selecione o arquivo `Analise_Demandas_Unimed_Serra_Gaucha.ipynb`
 4. Execute célula por célula na ordem
+5. Os dados são carregados automaticamente do GitHub — não é necessário baixar nenhum arquivo adicional
 
 ## Dicionário de Dados
 
